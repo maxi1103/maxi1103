@@ -51,8 +51,10 @@
             <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="44" height="44"/> 
         </p>
  <h2 align="center">GitHub Stats</h2>
-   
-    
+        
+   <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxi1103&show_icons=true&locale=en&layout=compact" alt="maxi1103" />
+   </p>
 </body>
 
 * Credit: [Maxi Gaitan](https://github.com/maxi1103)
