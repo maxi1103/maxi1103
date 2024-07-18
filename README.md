@@ -17,7 +17,6 @@
                    <li>💻 Programmer Analyst / Software Developer</li>
                    <li>🎓 Currently graduated in Programmer Analyst at Universidad Nacional de Jujuy, Argentina</li>
                    <li>🌐 Web and Desktop application developer</li>
-                   <li>📊 Data organization</li>
                    <li>🤝 Ability to work in team</li>
                    <li>🎆 A Self-Taught Person</li>
                    <li>🤓 Always learning new things</li>
@@ -37,10 +36,7 @@
             <img src="https://img.icons8.com/color/48/thymeleaf.png" alt="thymeleaf" width="43" height="43"/>
             <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap" width="43" height="43"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".net" width="36" height="36"/>   
-            <img src="https://img.icons8.com/fluency/48/my-sql.png" alt="mysql" width="50" height="50"/> 
-            <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="44" height="44"/> 
-            <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" width="44" height="44"/>  
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".net" width="36" height="36"/>         
             <img src="https://img.icons8.com/color-glass/48/github--v1.png" alt="github" width="42" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="38" height="38"/> 
             <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="40" height="40"/>
@@ -48,12 +44,18 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" width="37" height="37"/>
             </p>
          <br>
+<h2 align="center">Databases</h2>
+        <p align="center">
+            <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" width="44" height="44"/>
+            <img src="https://img.icons8.com/fluency/48/my-sql.png" alt="mysql" width="50" height="50"/> 
+            <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="44" height="44"/> 
+        </p>
  <h2 align="center">GitHub Stats</h2>
    
     
 </body>
 
-* Credit: [Maxi Gaitan](https://github.com/maxi1103
+* Credit: [Maxi Gaitan](https://github.com/maxi1103)
 
 <!--
 **maxi1103/maxi1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
