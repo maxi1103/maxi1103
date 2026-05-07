@@ -61,6 +61,4 @@
    </p>
 </body>
 
-###  &nbsp;Tech Stack
-
 
