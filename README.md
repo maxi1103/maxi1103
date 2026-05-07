@@ -2,8 +2,8 @@
     <header>
          <div align="center" >
             <h1 align="center" style="border:0">👋 Hi there, I'm Maxi Gaitan </h1>
-            <a href="https://www.linkedin.com/in/nmaxi-gaitan/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-            <a href="https://github.com/maxi1103"><img src="https://img.shields.io/badge/GitHub-214A57?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+            <a target="_blank" href="https://www.linkedin.com/in/nmaxi-gaitan/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+            <a target="_blank" href="https://github.com/maxi1103"><img src="https://img.shields.io/badge/GitHub-214A57?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
             <a href="mailto:nahuel_maxi11@hotmail.com"><img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=Mail.Ru&logoColor=white&color=rgba(15%2C108%2C189)" alt="Mail" /></a>
          </div>      
     </header>
